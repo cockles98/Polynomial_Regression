@@ -17,19 +17,19 @@ pip install numpy matplotlib scikit-learn
 ```
 
 ## Description
-1. Data Generation
+1. Data Generation:
 The code generates noisy data based on a given analytical function. The function generate_noisy_data adds Gaussian noise to the analytical function.
 
-2. Polynomial Regression
+3. Polynomial Regression:
 The script performs polynomial regression using both vanilla polynomial regression and Ridge regression. The polynomial_regression function fits a polynomial of a specified degree to the data.
 
-3. Model Evaluation
+4. Model Evaluation:
 Model performance is evaluated using Mean Squared Error (MSE). The evaluate_model function splits the data into training and test sets, fits the model, and computes the MSE for both sets.
 
-4. MSE Analysis
+5. MSE Analysis:
 The script analyzes the behavior of MSE for different polynomial degrees and regularization parameters. It provides insights into model complexity and the effect of regularization.
 
-5. Plotting
+6. Plotting:
 The script provides plotting functionality to visualize the generated data, fitted polynomials, and MSE values.
 
 ## Results
