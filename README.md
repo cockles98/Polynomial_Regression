@@ -39,4 +39,4 @@ After running the script, you'll get insights into the best polynomial degree an
 The main functionality of the code is encapsulated within the `main()` function in the provided script. By running the script, you'll perform a series of analyses on polynomial regression. You can change the `main` function to set a customize situation for analysis.
 
 ## Obs.
-For a better view of the analysis, check the [notebook version](https://nbviewer.org/github/cockles98/Polynomial_Regression/blob/main/poly_regression_notebook.ipynb).
+For a better view of the analysis, check out the [notebook version](https://nbviewer.org/github/cockles98/Polynomial_Regression/blob/main/poly_regression_notebook.ipynb).
